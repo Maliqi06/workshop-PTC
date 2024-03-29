@@ -1,4 +1,4 @@
 CARS = ['BMW', 'Mercedes', 'Porsche', 'Volkswagen']
 
-for car in CAR:
+for car in CARS:
     print(car)
